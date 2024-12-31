@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Anime_FLCL.json"
+    "Anime_FLCL.json",
+    "dagashikashibyNacht_by_fStikBot.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
